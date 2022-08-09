@@ -1,3 +1,3 @@
 git is awsome!
-new line
+new line fix some bug
 experement with amend
