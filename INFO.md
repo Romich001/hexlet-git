@@ -1,4 +1,4 @@
 git is awsome!
-new line fix some bug
+new line
 experement with amend
 add line in diff commit
